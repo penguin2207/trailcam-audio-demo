@@ -1,0 +1,23 @@
+.content h1{
+  margin-bottom: 10px;
+}
+
+.content h2{
+  font: 20pt steelfish;
+}
+
+.content figure{
+  margin-top: 10px;
+}
+
+.content img{
+	width: 120px;
+	height: 160px;
+}
+  
+.content table, th, td {
+  	border: 1px solid black;
+	padding: 8px;
+	text-align: center;
+}
+
